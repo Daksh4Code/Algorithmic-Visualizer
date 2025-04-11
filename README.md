@@ -1,4 +1,4 @@
-# ALGOVISUALIZER: Instruction & Explanation Documentation
+# ALGOVISUALIZER: Instruction & Explanation Documentation (See PresentationDocument for PDF)
 
 ## Instructions
 
