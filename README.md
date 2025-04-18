@@ -2,7 +2,7 @@
 
 ## Instructions
 
-### First, run the 'AlgorithmicVisualizer.py file' A grid like screen should be displayed, along with an (optional) music file in the background. Then, follow the instructions below. 
+### Simply run the 'AlgorithmicVisualizer.py file'. A grid like screen should be displayed, along with an (optional) music file in the background. Then, follow the instructions below. 
 
 1. **To set the starting point:**  
    Click once anywhere on the grid where you want it to be located.
