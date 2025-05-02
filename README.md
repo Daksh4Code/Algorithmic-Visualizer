@@ -1,8 +1,8 @@
-# ALGOVISUALIZER: Instruction & Explanation Documentation (See PresentationDocument for PDF)
+# ALGOVISUALIZER: Instruction & Explanation Documentation (See Presentation Document for PDF)
 
 ## Instructions
 
-### Simply run the 'AlgorithmicVisualizer.py file'. A grid like screen should be displayed, along with an (optional) music file in the background. Then, follow the instructions below. 
+### Simply run the 'AlgorithmicVisualizer.py' file. A grid like screen should be displayed, along with an (optional) music file in the background. You can add your own (again, optional) soundtrack by modifying line 11 of the 'AlgorithmicVisualizer.py' file, and adding your custom sound file destination from your local machine. Then, follow the instructions below. 
 
 1. **To set the starting point:**  
    Click once anywhere on the grid where you want it to be located.
@@ -22,11 +22,11 @@
 ---
 
 ## The Different Algorithms
-
+- NOTE: In BFS and DFS, V = number of vertices and E = number of edges.
 ### 1. Breadth First Search (BFS)
 - Visits all nodes at the current depth level before moving to the next.
 - Guarantees the shortest path from the starting node to the ending node.
-- **Time Complexity:** O(V + E)  
+- **Time Complexity:** O(V + E) 
 - **Space Complexity:** O(V)
 
 ### 2. Depth First Search (DFS)
