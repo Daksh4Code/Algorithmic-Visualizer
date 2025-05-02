@@ -22,7 +22,7 @@
 ---
 
 ## The Different Algorithms
-- NOTE: In BFS and DFS, V = number of vertices and E = number of edges.
+- NOTE: In BFS, DFS, and Dijkstra's Algorithm, V = number of vertices and E = number of edges.
 ### 1. Breadth First Search (BFS)
 - Visits all nodes at the current depth level before moving to the next.
 - Guarantees the shortest path from the starting node to the ending node.
